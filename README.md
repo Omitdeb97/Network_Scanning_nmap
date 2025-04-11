@@ -22,6 +22,10 @@ IP Address     |  Ports Open    |   Services Detected    |      Notes
 192.168.178.254  |  None        |  None                  |  Filtered ports
 192.168.178.136  |  None        |  None                  |  Target Machine
 
+# Screen Short
+
+
+
 # Analysis
 192.168.178.1: MySQL (port 3306) is open. If exposed without proper authentication, it could be a target. I'd like to suggest restricting access and securing the database.
 
