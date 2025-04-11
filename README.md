@@ -23,7 +23,7 @@ IP Address     |  Ports Open    |   Services Detected    |      Notes
 192.168.178.136  |  None        |  None                  |  Target Machine
 
 # Screen Short
-
+![image alt](https://github.com/Omitdeb97/Network_Scanning_nmap/blob/main/nmap%20scanning%20.png?raw=true)
 
 
 # Analysis
