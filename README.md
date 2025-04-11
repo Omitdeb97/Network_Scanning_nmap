@@ -23,6 +23,7 @@ IP Address     |  Ports Open    |   Services Detected    |      Notes
 192.168.178.136  |  None        |  None                  |  Target Machine
 
 # Screen Short
+Below is a screenshot of the Nmap command used and the scan results from my local network
 ![image alt](https://github.com/Omitdeb97/Network_Scanning_nmap/blob/main/nmap%20scanning%20.png?raw=true)
 
 
