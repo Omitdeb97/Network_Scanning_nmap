@@ -17,7 +17,7 @@ nmap -sV -T4 -Pn 192.168.178.0/24
 
 IP Address     |  Ports Open    |   Services Detected    |      Notes
 ---------------------------------------------------------------------------
-192.168.178.1    |  306         | MySQL (unauthorized)   |  Database Server
+192.168.178.1    |  3306         | MySQL (unauthorized)   |  Database Server
 192.168.178.2    |  53          |  tcpwrapped            |  Possibly DNS
 192.168.178.254  |  None        |  None                  |  Filtered ports
 192.168.178.136  |  None        |  None                  |  Target Machine
